@@ -1,0 +1,7 @@
+log"Program Output"
+log"Hello world!"
+log"2+2="
+log(2+2)
+log"22*33="
+log(22*33)
+log"End"
